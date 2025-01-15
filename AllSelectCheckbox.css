@@ -1,0 +1,66 @@
+
+
+body {
+    background-color: rgb(209, 185, 132);
+    margin:0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+    }
+
+.container {
+    background-color: rgb(221, 227, 227);
+    width: 300px;
+    height:300px ;
+    padding: 0%;
+    border-radius: 5px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+   text-align: left;
+   position: relative;
+
+}
+
+.table-style,tr,th {
+
+    border: 1px solid rgb(13, 14, 12);
+    border-radius: 5%;
+    background-color: rgb(173, 67, 173);
+    color: white;
+    font-size: 15px;
+    
+    
+}
+
+
+
+thead {
+    text-transform: uppercase;
+}
+
+
+/* button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(241, 245, 245);
+    cursor: pointer;
+    color: rgb(15, 15, 15);
+    font-size: medium;
+}
+button:hover {
+    background-color: rgb(39, 159, 73);
+} */
+
+p {
+    font-weight: bold;
+}
+
+
+
+
+h2 {
+    color: rgb(40, 37, 43);
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
